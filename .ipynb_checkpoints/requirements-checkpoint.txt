@@ -1,4 +1,0 @@
-numpy
-matplotlib
-pandas
-kagglehub[pandas-datasets]
